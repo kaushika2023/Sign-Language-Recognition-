@@ -1,4 +1,4 @@
-# Sign-Language-Recognition-
+# Sign-Language-Recognition
 Sign Language Recognition System A deep learning-based project that translates sign language gestures into text/speech to bridge communication gaps between hearing-impaired individuals and others. 
 
 Features
@@ -7,6 +7,7 @@ Features
 🗣️ Speech Output: Provides audible translation of signs
 📊 Multi-Sign Support: Recognizes alphabets, numbers, and common phrases
 🌐 Web Interface: User-friendly Flask-based web application
+Tech Stack: Python, OpenCV, TensorFlow/Keras, Flask (web integration)
 
 Impact: Promotes inclusive communication with 92% accuracy on common signs.
 
